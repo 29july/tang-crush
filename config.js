@@ -12,5 +12,5 @@ const CONFIG = {
     mess: '我就知道 🥰 Love u 3百万',
     messDesc: '还不来找我 等什么呢？😘😘.',
     btnAccept: 'Okiiiiie 啦 <3',
-     messLink: 'http://m.weibo.cn' //link mess của các bạn. VD: https://m.me/nam.nodemy
+     messLink: 'http://m.me/linh.leo.372' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
